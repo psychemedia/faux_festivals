@@ -2,7 +2,7 @@
 
 Faux festivals are real time and "as-if" time streaming video  festivals based around one or more stages programmed using [`Clashfinder.com`](https://clashfinder.com).
 
-Festival acts are programmed on a particular date and stage at a particular time. Associated with each act is a link to a Youtube duration of approximately the same length as a the stage slot time.
+Festival acts are programmed on a particular date and stage at a particular time. Associated with each act is a link to a Youtube video with a duration of approximately the same length as a the stage slot time.
 
 Visiting a *Faux Festival* site allows a user to watch acts on stages as scheduled to appear either in real time (at the date and time scheduled) or *faux time*, selecting the festival *day* ans then wathcing the act that particular time.
 
