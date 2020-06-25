@@ -1,5 +1,4 @@
-# faux_festivals
-Faux Festivals template
+# *Faux Festivals* template repository
 
 Faux festivals are real time and "as-if" time streaming video  festivals based around one or more stages programmed using [`Clashfinder.com`](https://clashfinder.com).
 
